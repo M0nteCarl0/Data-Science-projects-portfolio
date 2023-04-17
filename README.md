@@ -1,2 +1,2 @@
-# Data-Science-projects-portfolio-
+# Data-Science-projects-portfolio
 My DS &amp; ML projects portfolio site
