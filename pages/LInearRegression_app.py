@@ -11,6 +11,7 @@ st.set_page_config(
 
 dataset = pd.read_csv("Salary_Data.csv")
 
+st.line_chart(dataset)
 dataset
 
 x = dataset.iloc[:,:-1].values
