@@ -23,6 +23,7 @@ jsonschema==4.17.3
 kiwisolver==1.4.4
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
+julia
 matplotlib==3.7.1
 mdurl==0.1.2
 numpy==1.24.2
